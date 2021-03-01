@@ -1,0 +1,76 @@
+<html>
+
+<head>
+
+<title>привет, Некита</title>
+
+</head>
+
+<body bgcolor=aqua>
+<center>
+
+<font color=navy> Мой первый сайт на HTML
+
+</font>
+
+<table border=2 width="30%"
+
+bgcolor=white align=center>
+
+<caption align=center valign=top>
+
+<font face=arial size=+2 color=navy>
+
+что я сделала
+
+<TR>
+<TD width="10%">1 </TD>
+<TD width="20%">споткнулась об учебник информатики</TD>
+</TR> 
+
+<TR>
+<td width="10%">2</td>
+<td width="20%">открыла содержание учебника</td>
+</tr>
+
+<TR>
+<td width="10%">3</td>
+<td width="20%"> увидела главу "основы сайтостроения"</td>
+</tr>
+
+<TR>
+<td width="10%">4</td>
+<td width="20%"> ознакомиласть с материалом  страниц 209-228</td>
+</tr>
+
+<TR>
+<td width="10%">5</td>
+<td width="20%"> создала то, что вы сейчас читаете</td>
+</tr>
+
+</table>
+
+<p alingn=center>
+я опускаю рассказ о 2 часах, потраченных в пустую
+</p>
+
+<p alingn=center>
+но результат перед вами
+</p>
+
+<p alingn=center>
+!спасибо за внимание!
+</p>
+
+<p alingn=left>
+(ознакомитмся с содержанием HTML-документа
+</p>
+
+<p alingn=left>
+можно нажав Ctrl+U) 
+</p>
+
+
+</body>
+
+</html>
